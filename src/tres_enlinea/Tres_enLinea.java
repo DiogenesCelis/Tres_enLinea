@@ -23,7 +23,7 @@ public class Tres_enLinea {
                 triqui[i][j] = ' ';
             }
         }
-        //
+        // Hola
 
         System.out.println("\n\033[32mINSTRUCCIONES:\nCada jugador en su turno debera ingresar\nlas coordenadas de la poscicion deseada\nescribiendo primero la letra seguido del numero.\nEj: A1 - B2 - C3 ");
         System.out.println("----------------------------------------------------\n\n");
